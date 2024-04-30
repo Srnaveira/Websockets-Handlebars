@@ -1,0 +1,143 @@
+[
+  {
+    "title": "Mesa de Madera",
+    "description": "Mesa de Madera roble 4 Metros x 1.5 Metros",
+    "price": 1300000,
+    "thumbnail": "ruta/imagenA.jpg",
+    "code": "101MESA",
+    "status": true,
+    "category": "Mesas",
+    "stock": 30,
+    "id": 2
+  },
+  {
+    "title": "Silla de Madera",
+    "description": "Silla de Madera de pino",
+    "price": 120000,
+    "thumbnail": "ruta/imagenP.jpg",
+    "code": "104SILLA",
+    "status": true,
+    "category": "Sillas",
+    "stock": 30,
+    "id": 3
+  },
+  {
+    "title": "Silla de Madera",
+    "description": "Silla de Madera de nogal",
+    "price": 200000,
+    "thumbnail": "ruta/imagenN.jpg",
+    "code": "105SILLA",
+    "status": true,
+    "category": "Sillas",
+    "stock": 20,
+    "id": 4
+  },
+  {
+    "title": "Silla de Madera",
+    "description": "Silla de Madera de cerezo",
+    "price": 180000,
+    "thumbnail": "ruta/imagenC.jpg",
+    "code": "106SILLA",
+    "status": true,
+    "category": "Sillas",
+    "stock": 25,
+    "id": 5
+  },
+  {
+    "title": "Silla de Madera",
+    "description": "Silla de Madera de caoba",
+    "price": 220000,
+    "thumbnail": "ruta/imagenM.jpg",
+    "code": "107SILLA",
+    "status": true,
+    "category": "Sillas",
+    "stock": 15,
+    "id": 6
+  },
+  {
+    "title": "Silla de Madera",
+    "description": "Silla de Madera de arce",
+    "price": 160000,
+    "thumbnail": "ruta/imagenA.jpg",
+    "code": "108SILLA",
+    "status": true,
+    "category": "Sillas",
+    "stock": 40,
+    "id": 7
+  },
+  {
+    "title": "Silla de Madera",
+    "description": "Silla de Madera de bambú",
+    "price": 140000,
+    "thumbnail": "ruta/imagenB.jpg",
+    "code": "109SILLA",
+    "status": true,
+    "category": "Sillas",
+    "stock": 35,
+    "id": 8
+  },
+  {
+    "title": "Silla de Madera",
+    "description": "Silla de Madera de fresno",
+    "price": 170000,
+    "thumbnail": "ruta/imagenF.jpg",
+    "code": "110SILLA",
+    "status": true,
+    "category": "Sillas",
+    "stock": 22,
+    "id": 9
+  },
+  {
+    "title": "Silla de Madera",
+    "description": "Silla de Madera de haya",
+    "price": 190000,
+    "thumbnail": "ruta/imagenH.jpg",
+    "code": "111SILLA",
+    "status": true,
+    "category": "Sillas",
+    "stock": 18,
+    "id": 10
+  },
+  {
+    "title": "Silla de Madera",
+    "description": "Silla de Madera de ébano",
+    "price": 250000,
+    "thumbnail": "ruta/imagenE.jpg",
+    "code": "112SILLA",
+    "status": true,
+    "category": "Sillas",
+    "stock": 10,
+    "id": 11
+  },
+  {
+    "title": "Silla de Madera",
+    "description": "Silla de Madera de olmo",
+    "price": 130000,
+    "thumbnail": "ruta/imagenO.jpg",
+    "code": "113SILLA",
+    "status": true,
+    "category": "Sillas",
+    "stock": 28,
+    "id": 12
+  },
+  {
+    "title": "Silla de Madera 5",
+    "description": "Silla de Madera roble 4",
+    "code": "125SILLE",
+    "price": 270000,
+    "stock": 35,
+    "category": "Sillas",
+    "id": 13,
+    "status": true
+  },
+  {
+    "title": "silla",
+    "description": "Silla de Madera roble 4",
+    "code": "105SILLE",
+    "price": 270000,
+    "stock": 35,
+    "category": "Sillas",
+    "id": 14,
+    "status": true
+  }
+]
