@@ -13,6 +13,7 @@ export default class ProductManager {
             if (!this.isValidProduct(product)) {
                 console.error("Error: El formato de producto ingresado no es válido");
                 throw new Error('Error: El producto no es válido');
+                console.log(product)
             }
             //Envio el code del producto ingresado a la funcion para chequear si algun producto
             //tiene ese mismo code asignado
